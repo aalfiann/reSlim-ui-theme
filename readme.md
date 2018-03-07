@@ -18,6 +18,10 @@ Getting Started
 2. Visit to anywhere path inside folder
 3. Done
 
+Documentation
+---------------
+The documentation about this theme is included inside folder **src/Documentation**.
+
 Please Note:
 -----------------
 
